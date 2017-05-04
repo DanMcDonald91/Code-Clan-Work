@@ -1,0 +1,8 @@
+class Animal {
+  
+  
+  public Animal(){
+
+  }
+
+}

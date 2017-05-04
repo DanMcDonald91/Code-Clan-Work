@@ -1,0 +1,5 @@
+class Human extends Mamal{
+  
+}
+
+}
